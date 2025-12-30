@@ -1,30 +1,18 @@
-# Telos Project — Landing Page
+# Telos Project Ltd — Simple Landing Page
 
-This is a responsive, accessible landing page scaffold for the "Telos Project" business.
+This is a minimal single-page landing site for Telos Project Ltd using the copy you provided.
 
-What’s included:
-- `index.html` — main page with sections: hero, features, pricing, about, contact.
-- `styles.css` — responsive, modern styles with CSS variables.
-- `script.js` — small script for UI interactions and demo form handling.
-- `logo.svg` — simple SVG logo used as favicon and brand.
+Files:
+- index.html — main page
+- styles.css — minimal styles
+- logo.svg — simple logo
+- README.md — this file
 
-How to run:
-1. Clone or copy these files into a folder (e.g., `telos-landing/`).
-2. Open `index.html` in your browser. No build tools required.
+How to use:
+1. Save the files in the same folder.
+2. Open index.html in a browser to view the page.
 
-Customizations you should consider:
-- Replace the placeholder logo (logo.svg) with your official artwork.
-- Hook the contact form to a backend (API, Zapier, Formspree, etc.) instead of the demo simulation.
-- Update copy, pricing, and feature details to match your offerings.
-- Add analytics, performance optimizations, and accessibility testing as needed.
-
-Deployment:
-- You can deploy this as static files to GitHub Pages, Netlify, Vercel, or any static hosting provider.
-
-License:
-- Use freely and adapt for your needs.
-
-If you want, I can:
-- Integrate a real contact endpoint (show example with Formspree or Netlify Forms).
-- Convert this to a React/Vue/Next app.
-- Add responsive image assets and an optimized production build.
+Notes:
+- The contact link uses the provided email: robhamer1@outlook.com
+- No build tools required.
+- If you want the contact link to submit to a form endpoint, or prefer a contact form instead of mailto, I can add that.
